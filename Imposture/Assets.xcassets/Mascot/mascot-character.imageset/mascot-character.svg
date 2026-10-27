@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="670" height="410" viewBox="95 150 670 410">
+  <title>gogo mascot: character body, arm and face</title>
+  <!-- character: one unified silhouette, hunched neck/head -->
+  <path d="M246 429
+    C225 409 224 377 239 344
+    C254 311 286 280 327 256
+    C345 245 363 235 378 228
+    C396 203 422 185 449 192
+    C478 200 492 229 481 258
+    C473 280 453 297 429 310
+    C452 309 475 316 487 331
+    C497 343 487 354 469 358
+    C449 364 433 377 410 380
+    C433 398 441 422 442 451
+    L442 494
+    C442 510 430 520 414 520
+    C396 520 386 508 386 490
+    L386 440
+    C386 424 376 412 357 410
+    L284 410
+    C268 410 256 418 246 429 Z"
+    fill="#FFFDF5" stroke="#24232D" stroke-width="7" stroke-linejoin="round"/>
+  <!-- arm reaching laptop -->
+  <path d="M365 302 C371 325 379 341 398 345 C416 349 438 337 462 330 C473 327 482 333 479 342 C476 351 456 360 434 368 C403 379 378 370 363 352 C353 339 347 322 344 310" fill="#FFFDF5" stroke="#24232D" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- face and crease -->
+  <circle cx="449" cy="245" r="5.5" fill="#24232D"/>
+  <path d="M399 257 Q410 277 414 297" fill="none" stroke="#24232D" stroke-width="6" stroke-linecap="round"/>
+</svg>

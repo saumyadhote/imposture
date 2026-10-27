@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="670" height="410" viewBox="95 150 670 410">
+  <title>gogo mascot: chair, desk and props</title>
+  <ellipse cx="410" cy="515" rx="305" ry="20" fill="#B5B0D6" opacity="0.4"/>
+  <!-- chair -->
+  <g stroke="#24232D" stroke-width="7" stroke-linejoin="round" stroke-linecap="round">
+    <path d="M180 310 Q177 285 201 282 L220 282 Q238 284 242 309 L259 422 Q263 445 243 451 L224 455 Q206 456 202 435 Z" fill="#626276"/>
+    <rect x="230" y="430" width="190" height="38" rx="18" fill="#626276"/>
+    <path d="M315 468 L315 505 M315 505 L270 527 M315 505 L360 527 M315 505 L315 535" fill="none"/>
+    <path d="M270 527 L250 527 M360 527 L380 527" fill="none"/>
+    <circle cx="250" cy="533" r="11" fill="#626276"/><circle cx="380" cy="533" r="11" fill="#626276"/><circle cx="315" cy="541" r="11" fill="#626276"/>
+  </g>
+  <!-- desk -->
+  <g stroke="#24232D" stroke-width="6" stroke-linejoin="round">
+    <path d="M390 342 H690 V486 H390 Z" fill="#8EA66B"/>
+    <path d="M390 342 H690 V366 H390 Z" fill="#A8BD83"/>
+    <path d="M390 366 H476 V486 H390 Z" fill="#9AB47A"/>
+    <path d="M390 407 H476 M390 448 H476" fill="none"/>
+    <path d="M421 386 H440 M421 428 H440 M421 469 H440" stroke-width="5" stroke-linecap="round"/>
+  </g>
+  <!-- monitor/laptop -->
+  <g stroke="#24232D" stroke-width="6" stroke-linejoin="round">
+    <path d="M495 340 L520 250 L555 239 L530 340 Z" fill="#77758E"/>
+    <path d="M480 342 H568 L580 350 H467 Z" fill="#4E4D60"/>
+  </g>
+  <!-- books and mug -->
+  <g stroke="#24232D" stroke-width="5" stroke-linejoin="round">
+    <path d="M585 310 H675 V324 H585 Z" fill="#E9E5D7"/><path d="M580 292 H672 V307 H580 Z" fill="#B7C5A3"/><path d="M590 276 H670 V290 H590 Z" fill="#D8D3C4"/>
+    <path d="M560 293 H594 V338 Q594 346 586 346 H568 Q560 346 560 338 Z" fill="#F7D98E"/><path d="M594 304 Q612 302 609 319 Q607 329 594 326" fill="none"/>
+  </g>
+  <!-- paper and sticky notes -->
+  <g stroke="#24232D" stroke-width="4" stroke-linejoin="round">
+    <path d="M515 385 L555 382 L558 418 L518 421 Z" fill="#F7D98E"/><path d="M526 397 H547 M526 405 H543" fill="none" stroke-width="3"/>
+    <path d="M590 390 L625 389 L627 422 L592 424 Z" fill="#F4F0E5"/><path d="M599 401 H618 M599 409 H615" fill="none" stroke-width="3"/>
+    <path d="M710 408 L749 408 L749 485 L710 485 Z" fill="#77758E"/><path d="M706 408 H753 L747 422 H712 Z" fill="#8D8AA5"/>
+    <path d="M716 404 Q722 390 730 404 Q737 389 744 404" fill="#FFFDF5"/>
+  </g>
+</svg>
