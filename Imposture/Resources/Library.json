@@ -1,0 +1,1161 @@
+{
+  "contentStatus": "draft-needs-professional-review",
+  "exercises": [
+    {
+      "id": "chin-tuck",
+      "name": "Chin Tucks",
+      "summary": "One of the key exercises for practising a more neutral head position.",
+      "bodyAreas": [
+        "neck"
+      ],
+      "position": "seated",
+      "equipment": "chair",
+      "durationSeconds": 60,
+      "repsGuide": "8 reps · hold 3–5 seconds",
+      "bothSides": false,
+      "illustration": "chin-tuck",
+      "illustrationDescription": "A person seen from the side, finger on chin, drawing the head straight back.",
+      "steps": [
+        "Look straight ahead.",
+        "Imagine your head sliding backward along an invisible horizontal track.",
+        "Draw your chin backward to create a small double chin.",
+        "Keep your eyes level. Don't look down or tilt your head backward.",
+        "Hold for 3–5 seconds.",
+        "Relax for 2 seconds and repeat."
+      ],
+      "easier": [
+        "Start without a wall if that feels easier. Don't force your head against it."
+      ],
+      "cautions": [
+        "Keep the movement gentle. Do not tip your head down.",
+        "Stop if you feel dizziness, tingling or pain."
+      ],
+      "feel": "A gentle effort in the front of your neck and possibly a stretch at the back.",
+      "category": "neck",
+      "instruction": "Slide your head straight back to make a small double chin, hold, then relax."
+    },
+    {
+      "id": "supine-chin-tuck",
+      "name": "Supine Chin Tucks",
+      "category": "neck",
+      "summary": "A supported chin tuck lying down, so your neck muscles work without holding up your head.",
+      "instruction": "Lying on your back, gently nod your chin in and press the back of your head into the floor.",
+      "bodyAreas": [
+        "neck"
+      ],
+      "position": "floor",
+      "equipment": "mat",
+      "durationSeconds": 60,
+      "repsGuide": "Hold 5 seconds · relax 3 seconds",
+      "bothSides": false,
+      "illustrationDescription": "A person demonstrating supine chin tucks.",
+      "steps": [
+        "Lie on your back with your knees bent and feet flat.",
+        "Keep your head resting on the floor or a thin pillow.",
+        "Gently nod your chin in, as if making a small double chin.",
+        "Hold for about 5 seconds, then relax."
+      ],
+      "easier": [
+        "Use a folded towel under your head for comfort."
+      ],
+      "cautions": [
+        "Keep the movement small. Your head shouldn't lift off the floor.",
+        "Stop if you feel pain, dizziness, numbness or tingling."
+      ]
+    },
+    {
+      "id": "neck-rotations",
+      "name": "Gentle Neck Rotations",
+      "summary": "Slow turns to each side, stopping at the first comfortable stretch.",
+      "bodyAreas": [
+        "neck"
+      ],
+      "position": "seated",
+      "equipment": "chair",
+      "durationSeconds": 45,
+      "repsGuide": "5 reps per side · hold 3–5 seconds",
+      "bothSides": false,
+      "illustrationDescription": "Four standing poses: facing forward, turning the head right, turning left, then back to centre.",
+      "startingPosition": "Sit tall, shoulders relaxed, eyes looking forward.",
+      "steps": [
+        "Slowly turn your head to the left, as though looking over your left shoulder.",
+        "Stop at the first comfortable stretch. Keep your chin level.",
+        "Hold for 3–5 seconds.",
+        "Return to the centre, then slowly turn right.",
+        "Repeat without moving your shoulders."
+      ],
+      "easier": [],
+      "cautions": [
+        "Don't twist until your chin reaches your shoulder if that feels uncomfortable."
+      ],
+      "illustration": "neck-rotations",
+      "category": "neck",
+      "instruction": "Turn your head slowly to one side, return to centre, then turn to the other."
+    },
+    {
+      "id": "side-neck-stretch",
+      "name": "Side-of-Neck Stretch",
+      "summary": "This targets the muscles along the sides of your neck.",
+      "bodyAreas": [
+        "neck"
+      ],
+      "position": "seated",
+      "equipment": "chair",
+      "durationSeconds": 60,
+      "repsGuide": "2 holds per side · 15 seconds each",
+      "bothSides": true,
+      "illustrationDescription": "Four standing poses: tilting the head toward one shoulder, back to centre, then toward the other shoulder.",
+      "steps": [
+        "Sit tall and hold the right side of your chair with your right hand.",
+        "Keep your right shoulder down.",
+        "Slowly bring your left ear toward your left shoulder.",
+        "Keep your nose facing forward. Don't turn your head.",
+        "Hold for 15 seconds while breathing normally.",
+        "Return to the centre slowly."
+      ],
+      "switchSides": "Hold the chair with your left hand and tilt your right ear toward your right shoulder.",
+      "easier": [],
+      "cautions": [
+        "Do not pull your head down. You should feel a gentle stretch, not pain."
+      ],
+      "illustration": "side-neck-stretch",
+      "category": "neck",
+      "instruction": "Tilt your ear towards your shoulder until you feel a gentle stretch."
+    },
+    {
+      "id": "back-neck-stretch",
+      "name": "Back-of-Neck Stretch",
+      "summary": "Gently stretches the muscles connecting your neck to your shoulder blade.",
+      "bodyAreas": [
+        "neck",
+        "shoulders"
+      ],
+      "position": "seated",
+      "equipment": "chair",
+      "durationSeconds": 60,
+      "repsGuide": "1–2 holds per side · 10–15 seconds each",
+      "bothSides": true,
+      "illustrationDescription": "Four poses seen from behind: turning the head and opening the arms to stretch the back of the neck and shoulders.",
+      "steps": [
+        "Sit tall and keep your right shoulder relaxed.",
+        "Turn your head approximately 30–45 degrees to the left.",
+        "Gently lower your chin toward your left armpit.",
+        "Stop when you feel a mild stretch along the back-right side of your neck.",
+        "Hold for 10–15 seconds, then return to the centre."
+      ],
+      "switchSides": "Turn right and angle your chin toward your right armpit.",
+      "easier": [],
+      "cautions": [
+        "Keep your hands relaxed. Do not pull on the back of your head."
+      ],
+      "illustration": "back-neck-stretch",
+      "category": "neck",
+      "instruction": "Lower your chin gently towards your chest and let the back of your neck lengthen."
+    },
+    {
+      "id": "scapular-retraction",
+      "name": "Scapular Retractions",
+      "summary": "Draw your shoulder blades together to support upright posture.",
+      "bodyAreas": [
+        "upperBack",
+        "shoulders"
+      ],
+      "position": "seated",
+      "equipment": "none",
+      "durationSeconds": 60,
+      "repsGuide": "10 reps · hold 3–5 seconds",
+      "bothSides": false,
+      "illustration": "scapular-squeeze",
+      "illustrationDescription": "A view of a person's upper back, with arrows showing the shoulder blades moving toward each other.",
+      "steps": [
+        "Sit tall with your arms resting by your sides.",
+        "Gently draw both shoulder blades backward and slightly toward each other.",
+        "Keep your shoulders down, away from your ears.",
+        "Hold for 3–5 seconds.",
+        "Release completely and repeat."
+      ],
+      "easier": [
+        "Squeeze more gently and hold for a shorter time."
+      ],
+      "cautions": [
+        "Avoid arching your lower back, sticking your chest out excessively, or squeezing as hard as possible."
+      ],
+      "category": "strength",
+      "instruction": "Draw your shoulder blades back and down, hold, then release."
+    },
+    {
+      "id": "resistance-band-row",
+      "name": "Resistance Band Rows",
+      "category": "strength",
+      "summary": "Strengthens the muscles between your shoulder blades that help you sit tall.",
+      "instruction": "Pull the band towards your ribs, squeezing your shoulder blades together, then return slowly.",
+      "bodyAreas": [
+        "upperBack",
+        "shoulders"
+      ],
+      "position": "seated",
+      "equipment": "resistanceBand",
+      "durationSeconds": 60,
+      "repsGuide": "Slow, steady pulls · about 2 seconds each way",
+      "bothSides": false,
+      "illustrationDescription": "A person demonstrating resistance band rows.",
+      "steps": [
+        "Anchor a light band at chest height, or loop it around your feet while seated.",
+        "Hold one end in each hand, arms straight in front.",
+        "Pull your elbows back alongside your ribs.",
+        "Squeeze your shoulder blades together, then return slowly."
+      ],
+      "easier": [
+        "Use a lighter band, or stand closer to the anchor."
+      ],
+      "cautions": [
+        "Keep your shoulders away from your ears.",
+        "Check the band is secure before you pull.",
+        "Stop if you feel pain, dizziness, numbness or tingling."
+      ]
+    },
+    {
+      "id": "prone-w-raise",
+      "name": "Prone W Raises",
+      "category": "strength",
+      "summary": "Works the muscles around the shoulder blades in a W position.",
+      "instruction": "Lying face down, lift your arms in a W shape just off the floor, then lower.",
+      "bodyAreas": [
+        "upperBack",
+        "shoulders"
+      ],
+      "position": "floor",
+      "equipment": "mat",
+      "durationSeconds": 45,
+      "repsGuide": "Lift 2 seconds · hold 2 seconds · lower 2 seconds",
+      "bothSides": false,
+      "illustrationDescription": "A person demonstrating prone w raises.",
+      "steps": [
+        "Lie face down with a folded towel under your forehead.",
+        "Bend your elbows and pull them down and back so your arms make a W.",
+        "Thumbs pointing up, gently lift your arms a few centimetres off the floor.",
+        "Hold briefly, then lower with control."
+      ],
+      "easier": [
+        "Lift one arm at a time."
+      ],
+      "cautions": [
+        "Keep your neck long and your forehead on the towel.",
+        "Lift only as high as feels comfortable.",
+        "Stop if you feel pain, dizziness, numbness or tingling."
+      ]
+    },
+    {
+      "id": "prone-y-raise",
+      "name": "Prone Y Raises",
+      "category": "strength",
+      "summary": "Works the muscles around the shoulder blades in a Y position.",
+      "instruction": "Lying face down, lift your arms in a Y shape just off the floor, then lower.",
+      "bodyAreas": [
+        "upperBack",
+        "shoulders"
+      ],
+      "position": "floor",
+      "equipment": "mat",
+      "durationSeconds": 45,
+      "repsGuide": "Lift 2 seconds · hold 2 seconds · lower 2 seconds",
+      "bothSides": false,
+      "illustrationDescription": "A person demonstrating prone y raises.",
+      "steps": [
+        "Lie face down with a folded towel under your forehead.",
+        "Reach your arms forward and slightly out so your body makes a Y.",
+        "Thumbs pointing up, gently lift your arms a few centimetres off the floor.",
+        "Hold briefly, then lower with control."
+      ],
+      "easier": [
+        "Lift one arm at a time."
+      ],
+      "cautions": [
+        "Keep your neck long and your forehead on the towel.",
+        "Lift only as high as feels comfortable.",
+        "Stop if you feel pain, dizziness, numbness or tingling."
+      ]
+    },
+    {
+      "id": "prone-t-raise",
+      "name": "Prone T Raises",
+      "category": "strength",
+      "summary": "Works the muscles around the shoulder blades in a T position.",
+      "instruction": "Lying face down, lift your arms in a T shape just off the floor, then lower.",
+      "bodyAreas": [
+        "upperBack",
+        "shoulders"
+      ],
+      "position": "floor",
+      "equipment": "mat",
+      "durationSeconds": 45,
+      "repsGuide": "Lift 2 seconds · hold 2 seconds · lower 2 seconds",
+      "bothSides": false,
+      "illustrationDescription": "A person demonstrating prone t raises.",
+      "steps": [
+        "Lie face down with a folded towel under your forehead.",
+        "Stretch your arms straight out to the sides so your body makes a T.",
+        "Thumbs pointing up, gently lift your arms a few centimetres off the floor.",
+        "Hold briefly, then lower with control."
+      ],
+      "easier": [
+        "Lift one arm at a time."
+      ],
+      "cautions": [
+        "Keep your neck long and your forehead on the towel.",
+        "Lift only as high as feels comfortable.",
+        "Stop if you feel pain, dizziness, numbness or tingling."
+      ]
+    },
+    {
+      "id": "prone-cobra",
+      "name": "Prone Cobra",
+      "category": "strength",
+      "summary": "Strengthens the upper back and the muscles that draw the shoulders back.",
+      "instruction": "Lying face down, lift your chest slightly and turn your thumbs out, then lower.",
+      "bodyAreas": [
+        "upperBack",
+        "back"
+      ],
+      "position": "floor",
+      "equipment": "mat",
+      "durationSeconds": 40,
+      "repsGuide": "Hold 5 seconds · rest 3 seconds",
+      "bothSides": false,
+      "illustrationDescription": "A person demonstrating prone cobra.",
+      "steps": [
+        "Lie face down, arms by your sides, palms down.",
+        "Squeeze your shoulder blades together.",
+        "Lift your chest a few centimetres and turn your thumbs out.",
+        "Hold, then lower slowly."
+      ],
+      "easier": [],
+      "cautions": [
+        "Keep your gaze on the floor so your neck stays long.",
+        "Don't push up with your hands.",
+        "Stop if you feel pain, dizziness, numbness or tingling."
+      ]
+    },
+    {
+      "id": "wall-slide",
+      "name": "Wall Slides",
+      "category": "strength",
+      "summary": "Trains your shoulder blades to move smoothly as you reach overhead.",
+      "instruction": "Forearms on the wall, slide your arms up while keeping your shoulders down, then slide back.",
+      "bodyAreas": [
+        "upperBack",
+        "shoulders"
+      ],
+      "position": "standing",
+      "equipment": "wall",
+      "durationSeconds": 60,
+      "repsGuide": "Slow slides · about 3 seconds up, 3 seconds down",
+      "bothSides": false,
+      "illustrationDescription": "A person demonstrating wall slides.",
+      "steps": [
+        "Stand facing a wall with your forearms on it, elbows at shoulder height.",
+        "Slide your forearms up the wall.",
+        "Keep your shoulders away from your ears.",
+        "Slide back down to the start."
+      ],
+      "easier": [],
+      "cautions": [
+        "Only go as high as you can without shrugging.",
+        "Stop if you feel pain, dizziness, numbness or tingling."
+      ]
+    },
+    {
+      "id": "wall-push-up-plus",
+      "name": "Wall Push-Up Plus",
+      "category": "strength",
+      "summary": "A gentle push-up that ends with an extra push to strengthen the muscles around your shoulder blades.",
+      "instruction": "Do a wall push-up, then push a little further so your shoulder blades spread apart.",
+      "bodyAreas": [
+        "shoulders",
+        "upperBack"
+      ],
+      "position": "standing",
+      "equipment": "wall",
+      "durationSeconds": 60,
+      "repsGuide": "Slow push-ups · add the extra push at the top",
+      "bothSides": false,
+      "illustrationDescription": "A person demonstrating wall push-up plus.",
+      "steps": [
+        "Stand an arm's length from a wall, hands on it at shoulder height.",
+        "Bend your elbows and bring your chest towards the wall.",
+        "Push back to straight arms.",
+        "At the top, push a little further so your upper back rounds slightly."
+      ],
+      "easier": [
+        "Stand closer to the wall."
+      ],
+      "cautions": [
+        "Keep your body in a straight line from head to heels.",
+        "Stop if you feel pain, dizziness, numbness or tingling."
+      ]
+    },
+    {
+      "id": "bird-dog",
+      "name": "Bird Dog",
+      "category": "strength",
+      "summary": "Builds steady control through your back and hips.",
+      "instruction": "On hands and knees, reach one arm forward and the opposite leg back, then switch.",
+      "bodyAreas": [
+        "back"
+      ],
+      "position": "floor",
+      "equipment": "mat",
+      "durationSeconds": 60,
+      "repsGuide": "Hold 3 seconds each side · alternate",
+      "bothSides": true,
+      "illustrationDescription": "A person demonstrating bird dog.",
+      "steps": [
+        "Start on hands and knees, hands under shoulders, knees under hips.",
+        "Reach one arm forward and the opposite leg back.",
+        "Keep your back flat and hips level.",
+        "Hold, return, and switch sides."
+      ],
+      "easier": [
+        "Move only the arm, or only the leg."
+      ],
+      "cautions": [
+        "Move slowly. Don't let your lower back sag.",
+        "Stop if you feel pain, dizziness, numbness or tingling."
+      ],
+      "switchSides": "Halfway through, switch to the other arm and leg."
+    },
+    {
+      "id": "wall-angels",
+      "name": "Wall Angels",
+      "summary": "Slide your arms up and down to wake up the upper back.",
+      "bodyAreas": [
+        "upperBack",
+        "shoulders"
+      ],
+      "position": "standing",
+      "equipment": "wall",
+      "durationSeconds": 60,
+      "repsGuide": "About 8 slow reps",
+      "bothSides": false,
+      "illustration": "wall-angels",
+      "illustrationDescription": "A person stands with arms raised in a goalpost shape, with arrows showing the arms sliding upward.",
+      "steps": [
+        "Stand with your back against a wall, feet a small step forward.",
+        "Raise your arms into a goalpost shape, elbows bent.",
+        "Slowly slide your arms up as far as is comfortable.",
+        "Slide them back down. Keep your back gently against the wall."
+      ],
+      "easier": [
+        "Do the movement standing away from the wall.",
+        "Only raise your arms partway."
+      ],
+      "cautions": [
+        "Do not force your arms back against the wall.",
+        "Stop if you feel pinching or pain in the shoulders."
+      ],
+      "category": "strength",
+      "instruction": "Back against the wall, slide your arms up and down like a slow snow angel."
+    },
+    {
+      "id": "cat-cow",
+      "name": "Cat Cow",
+      "summary": "Round and arch your spine slowly to ease stiffness.",
+      "bodyAreas": [
+        "back"
+      ],
+      "position": "floor",
+      "equipment": "none",
+      "durationSeconds": 60,
+      "repsGuide": "About 6 slow cycles",
+      "bothSides": false,
+      "illustration": "cat-cow",
+      "illustrationDescription": "Two poses on hands and knees: above, the back gently arched with the head lifted; below, the back rounded with the head lowered.",
+      "steps": [
+        "Start on your hands and knees on a soft surface.",
+        "Breathe in as you gently let your belly lower and lift your gaze.",
+        "Breathe out as you round your back and lower your head.",
+        "Move slowly between the two positions."
+      ],
+      "easier": [
+        "Try it seated: hands on your knees, gently arch and then round your back.",
+        "Make the movement smaller."
+      ],
+      "cautions": [
+        "Skip the floor version if getting down or up is difficult.",
+        "Cushion your knees and stop if you feel pain."
+      ],
+      "category": "mobility",
+      "instruction": "On hands and knees, round your back up, then let it gently dip."
+    },
+    {
+      "id": "seated-thoracic-extension",
+      "name": "Seated Thoracic Extensions",
+      "category": "mobility",
+      "summary": "Gently mobilises the upper back without leaning over the backrest.",
+      "instruction": "Sitting tall, cross your arms and gently lift your breastbone up and back, then return.",
+      "bodyAreas": [
+        "upperBack"
+      ],
+      "position": "seated",
+      "equipment": "chair",
+      "durationSeconds": 45,
+      "repsGuide": "Slow movements · about 3 seconds each way",
+      "bothSides": false,
+      "illustrationDescription": "A person demonstrating seated thoracic extensions.",
+      "steps": [
+        "Sit towards the front of the chair, feet flat.",
+        "Cross your arms over your chest.",
+        "Lift your breastbone up and slightly back.",
+        "Return to sitting tall."
+      ],
+      "easier": [],
+      "cautions": [
+        "Keep the movement in your upper back, not your neck.",
+        "Stop if you feel pain, dizziness, numbness or tingling."
+      ]
+    },
+    {
+      "id": "thoracic-extension-chair",
+      "name": "Thoracic Extension Over a Chair",
+      "summary": "Lean back over your chair to open up the upper back.",
+      "bodyAreas": [
+        "upperBack"
+      ],
+      "position": "seated",
+      "equipment": "chair",
+      "durationSeconds": 60,
+      "repsGuide": "About 6 slow reps",
+      "bothSides": false,
+      "illustration": "seated-thoracic-extension",
+      "illustrationDescription": "A person sits in a chair with hands behind the head, leaning back gently over the top of the backrest and looking slightly up.",
+      "steps": [
+        "Sit back in a stable chair with a firm backrest.",
+        "Rest your hands lightly behind your head, elbows wide.",
+        "Gently lean back over the top of the backrest and look slightly up.",
+        "Return to sitting tall. Repeat slowly."
+      ],
+      "easier": [
+        "Cross your arms over your chest instead.",
+        "Lean back only a little."
+      ],
+      "cautions": [
+        "Use a chair that will not roll or tip.",
+        "Do not pull on your head or neck.",
+        "Stop if you feel pain."
+      ],
+      "category": "mobility",
+      "instruction": "Hands behind your head, lean back gently over the top of the backrest."
+    },
+    {
+      "id": "shoulder-rolls",
+      "name": "Shoulder Rolls",
+      "summary": "Slow circles to ease tension across the shoulders.",
+      "bodyAreas": [
+        "shoulders",
+        "neck"
+      ],
+      "position": "seated",
+      "equipment": "none",
+      "durationSeconds": 45,
+      "repsGuide": "10 reps · about 3 seconds per circle",
+      "bothSides": false,
+      "illustration": "shoulder-rolls",
+      "illustrationDescription": "Four standing poses showing the shoulders lifting toward the ears, then rolling back and down.",
+      "steps": [
+        "Lift both shoulders gently toward your ears.",
+        "Roll them backward in a smooth circle.",
+        "Move your shoulders down and relax.",
+        "Repeat slowly. Don't move your head."
+      ],
+      "easier": [
+        "Roll one shoulder at a time.",
+        "Make smaller circles."
+      ],
+      "cautions": [
+        "Move slowly and breathe normally.",
+        "Stop if you feel pain."
+      ],
+      "startingPosition": "Sit upright, feet flat on the floor, arms relaxed by your sides.",
+      "hold": "No hold needed. Take about 3 seconds per circle.",
+      "category": "mobility",
+      "instruction": "Lift your shoulders, roll them back and down in slow circles.",
+      "animation": "mascot_shoulder_rolls"
+    },
+    {
+      "id": "doorway-chest-stretch",
+      "name": "Doorway Chest Stretch",
+      "summary": "Helps address tightness across the chest that can accompany rounded shoulders.",
+      "bodyAreas": [
+        "shoulders",
+        "upperBack"
+      ],
+      "position": "standing",
+      "equipment": "doorway",
+      "durationSeconds": 60,
+      "repsGuide": "2 holds · 15–20 seconds each",
+      "bothSides": false,
+      "illustrationDescription": "A person stands in a doorway with forearms on the frame, one foot forward, leaning gently through.",
+      "steps": [
+        "Stand in an open doorway.",
+        "Place your forearms against the door frame, elbows around shoulder height or slightly lower.",
+        "Step one foot forward.",
+        "Gently move your chest forward until you feel a stretch across the front of your chest.",
+        "Keep your neck relaxed and avoid arching your back.",
+        "Hold for 15–20 seconds, then step back."
+      ],
+      "easier": [],
+      "cautions": [
+        "Stop if you feel pinching in the front of your shoulders or tingling down your arms."
+      ],
+      "category": "stretch",
+      "instruction": "Forearms on the frame, step through until you feel a stretch across the chest."
+    },
+    {
+      "id": "standing-chest-opener",
+      "name": "Standing Chest Opener",
+      "summary": "Open the front of the chest after time spent hunched forward.",
+      "bodyAreas": [
+        "shoulders",
+        "upperBack"
+      ],
+      "position": "standing",
+      "equipment": "none",
+      "durationSeconds": 40,
+      "repsGuide": "Hold and breathe slowly",
+      "bothSides": false,
+      "illustration": "standing-chest-opener",
+      "illustrationDescription": "A person stands tall with hands clasped behind the back, chest lifted, with an arrow showing the chest opening.",
+      "steps": [
+        "Stand tall with your feet hip-width apart.",
+        "Clasp your hands behind your back.",
+        "Gently draw your shoulders back and lift your chest.",
+        "Hold and breathe slowly. Relax when the timer ends."
+      ],
+      "easier": [
+        "Hold a towel between your hands instead of clasping them.",
+        "Place your hands on your lower back."
+      ],
+      "cautions": [
+        "Keep your neck relaxed and avoid arching your lower back.",
+        "Stop if you feel pain."
+      ],
+      "category": "stretch",
+      "instruction": "Clasp your hands behind you and gently lift your chest."
+    },
+    {
+      "id": "standing-hip-flexor-stretch",
+      "name": "Standing Hip Stretch",
+      "summary": "Stretch the front of the hip, which can tighten with long sitting.",
+      "bodyAreas": [
+        "hips"
+      ],
+      "position": "standing",
+      "equipment": "none",
+      "durationSeconds": 60,
+      "repsGuide": "Hold each side",
+      "bothSides": true,
+      "illustration": "standing-hip-flexor-stretch",
+      "illustrationDescription": "A person stands in a long split stance with hands on hips, back leg straight, with an arrow at the front of the back hip.",
+      "steps": [
+        "Stand tall and step one foot back into a split stance.",
+        "Place your hands on your hips.",
+        "Gently tuck your hips under and shift forward until you feel a stretch at the front of the back hip.",
+        "Hold and breathe. Switch sides when prompted."
+      ],
+      "easier": [
+        "Hold the back of a chair or your desk for balance.",
+        "Take a shorter step back."
+      ],
+      "cautions": [
+        "Keep your front knee over your ankle.",
+        "Stop if you feel pain in your hip, knee or back."
+      ],
+      "category": "stretch",
+      "instruction": "Step one foot back, tuck your hips under and feel the front of the hip open."
+    },
+    {
+      "id": "seated-figure-four",
+      "name": "Seated Figure Four",
+      "category": "desk",
+      "summary": "Stretches the hips and buttocks after long periods of sitting.",
+      "instruction": "Rest one ankle on the opposite knee and lean forward gently from your hips.",
+      "bodyAreas": [
+        "hips"
+      ],
+      "position": "seated",
+      "equipment": "chair",
+      "durationSeconds": 60,
+      "repsGuide": "Hold 30 seconds each side",
+      "bothSides": true,
+      "illustrationDescription": "A person demonstrating seated figure four.",
+      "steps": [
+        "Sit towards the front of a sturdy chair, feet flat on the floor.",
+        "Rest one ankle on the opposite knee.",
+        "Sit tall and lean forward slightly from your hips.",
+        "Hold, then switch sides."
+      ],
+      "easier": [],
+      "cautions": [
+        "Don't press down on your knee.",
+        "Stop if you feel pain, dizziness, numbness or tingling."
+      ],
+      "switchSides": "Halfway through, switch legs."
+    },
+    {
+      "id": "seated-hamstring-stretch",
+      "name": "Seated Hamstring Stretch",
+      "category": "desk",
+      "summary": "Stretches the back of the thigh.",
+      "instruction": "Straighten one leg with your heel on the floor and lean forward gently.",
+      "bodyAreas": [
+        "legs"
+      ],
+      "position": "seated",
+      "equipment": "chair",
+      "durationSeconds": 60,
+      "repsGuide": "Hold 30 seconds each side",
+      "bothSides": true,
+      "illustrationDescription": "A person demonstrating seated hamstring stretch.",
+      "steps": [
+        "Sit towards the front of a sturdy chair, feet flat on the floor.",
+        "Straighten one leg, heel on the floor, toes up.",
+        "Keep your back straight and hinge forward slightly.",
+        "Hold, then switch legs."
+      ],
+      "easier": [],
+      "cautions": [
+        "Lean only until you feel a mild stretch.",
+        "Stop if you feel pain, dizziness, numbness or tingling."
+      ],
+      "switchSides": "Halfway through, switch legs."
+    },
+    {
+      "id": "trunk-rotation",
+      "name": "Trunk Rotation",
+      "category": "desk",
+      "summary": "Eases stiffness through the middle of your back.",
+      "instruction": "Sitting tall, turn your upper body to one side, hold, then turn to the other.",
+      "bodyAreas": [
+        "back",
+        "upperBack"
+      ],
+      "position": "seated",
+      "equipment": "chair",
+      "durationSeconds": 40,
+      "repsGuide": "Hold 15–20 seconds each side",
+      "bothSides": true,
+      "illustrationDescription": "A person demonstrating trunk rotation.",
+      "steps": [
+        "Sit towards the front of a sturdy chair, feet flat on the floor.",
+        "Cross your arms over your chest or hold the chair back.",
+        "Turn your upper body to one side.",
+        "Hold, return to centre, then turn the other way."
+      ],
+      "easier": [],
+      "cautions": [
+        "Keep your hips facing forward.",
+        "Stop if you feel pain, dizziness, numbness or tingling."
+      ],
+      "switchSides": "Halfway through, turn to the other side."
+    },
+    {
+      "id": "desk-chest-opener",
+      "name": "Chest Opener",
+      "category": "desk",
+      "summary": "Opens the front of the shoulders after leaning towards a screen.",
+      "instruction": "Clasp your hands behind your back and gently lift your chest.",
+      "bodyAreas": [
+        "shoulders",
+        "upperBack"
+      ],
+      "position": "seated",
+      "equipment": "chair",
+      "durationSeconds": 30,
+      "repsGuide": "Hold 15 seconds · relax · repeat",
+      "bothSides": false,
+      "illustrationDescription": "A person demonstrating chest opener.",
+      "steps": [
+        "Sit towards the front of a sturdy chair, feet flat on the floor.",
+        "Clasp your hands behind your back.",
+        "Draw your shoulders back and lift your chest.",
+        "Hold, then relax."
+      ],
+      "easier": [],
+      "cautions": [
+        "Keep your chin level.",
+        "Stop if you feel pain, dizziness, numbness or tingling."
+      ]
+    },
+    {
+      "id": "one-arm-hug-stretch",
+      "name": "One-Arm Hug Stretch",
+      "category": "desk",
+      "summary": "Stretches the back of the shoulder.",
+      "instruction": "Bring one arm across your chest and hug it in with the other arm.",
+      "bodyAreas": [
+        "shoulders",
+        "upperBack"
+      ],
+      "position": "seated",
+      "equipment": "chair",
+      "durationSeconds": 40,
+      "repsGuide": "Hold 15–20 seconds each side",
+      "bothSides": true,
+      "illustrationDescription": "A person demonstrating one-arm hug stretch.",
+      "steps": [
+        "Sit towards the front of a sturdy chair, feet flat on the floor.",
+        "Bring one arm across your chest.",
+        "Use the other arm to hug it gently closer.",
+        "Hold, then switch arms."
+      ],
+      "easier": [],
+      "cautions": [
+        "Keep your shoulder down, away from your ear.",
+        "Stop if you feel pain, dizziness, numbness or tingling."
+      ],
+      "switchSides": "Halfway through, switch arms."
+    },
+    {
+      "id": "overhead-triceps-stretch",
+      "name": "Overhead Triceps Stretch",
+      "category": "desk",
+      "summary": "Stretches the back of the upper arm and shoulder.",
+      "instruction": "Reach one hand down your back and gently guide the elbow with the other hand.",
+      "bodyAreas": [
+        "shoulders"
+      ],
+      "position": "seated",
+      "equipment": "chair",
+      "durationSeconds": 40,
+      "repsGuide": "Hold 15–20 seconds each side",
+      "bothSides": true,
+      "illustrationDescription": "A person demonstrating overhead triceps stretch.",
+      "steps": [
+        "Sit towards the front of a sturdy chair, feet flat on the floor.",
+        "Raise one arm and bend the elbow so your hand reaches down your back.",
+        "Use the other hand to guide the elbow gently.",
+        "Hold, then switch arms."
+      ],
+      "easier": [],
+      "cautions": [
+        "Keep your head upright.",
+        "Stop if you feel pain, dizziness, numbness or tingling."
+      ],
+      "switchSides": "Halfway through, switch arms."
+    },
+    {
+      "id": "forearm-stretch",
+      "name": "Forearm Stretch",
+      "category": "desk",
+      "summary": "Relieves tension in the wrists and forearms from typing.",
+      "instruction": "Arm straight, palm out, gently draw your fingers back with the other hand.",
+      "bodyAreas": [
+        "shoulders"
+      ],
+      "position": "seated",
+      "equipment": "none",
+      "durationSeconds": 40,
+      "repsGuide": "Hold 10 seconds · palm up and palm down · each side",
+      "bothSides": true,
+      "illustrationDescription": "A person demonstrating forearm stretch.",
+      "steps": [
+        "Hold one arm straight in front, palm facing out.",
+        "Gently draw your fingers back with the other hand.",
+        "Hold, then turn your palm down and repeat.",
+        "Switch arms."
+      ],
+      "easier": [],
+      "cautions": [
+        "Keep the stretch gentle.",
+        "Stop if you feel pain, dizziness, numbness or tingling."
+      ],
+      "switchSides": "Halfway through, switch arms."
+    },
+    {
+      "id": "sit-to-stand",
+      "name": "Sit-to-Stand",
+      "summary": "Build everyday leg strength by standing up from a chair.",
+      "bodyAreas": [
+        "legs"
+      ],
+      "position": "seated",
+      "equipment": "chair",
+      "durationSeconds": 60,
+      "repsGuide": "About 8 controlled reps",
+      "bothSides": false,
+      "illustration": "sit-to-stand",
+      "illustrationDescription": "Two poses: a person sitting near the front of a chair leaning slightly forward, then standing tall in front of the chair.",
+      "steps": [
+        "Sit near the front of a stable chair, feet hip-width apart.",
+        "Lean forward slightly and press through your feet to stand up.",
+        "Stand tall for a moment.",
+        "Sit back down slowly and with control."
+      ],
+      "easier": [
+        "Use your hands on your thighs or the armrests to help.",
+        "Do fewer reps and rest between them."
+      ],
+      "cautions": [
+        "Use a chair that will not roll. Avoid office chairs with wheels.",
+        "Stop if you feel dizzy or have pain."
+      ],
+      "category": "legs",
+      "instruction": "Stand up from the chair without using your hands, then sit back down slowly."
+    },
+    {
+      "id": "calf-raises",
+      "name": "Supported Calf Raises",
+      "summary": "Rise onto your toes while holding a chair for support.",
+      "bodyAreas": [
+        "legs"
+      ],
+      "position": "standing",
+      "equipment": "chair",
+      "durationSeconds": 45,
+      "repsGuide": "About 10 slow reps",
+      "bothSides": false,
+      "illustration": "calf-raises",
+      "illustrationDescription": "A person stands holding the back of a chair, rising onto the balls of the feet, with an arrow pointing up at the heels.",
+      "steps": [
+        "Stand behind a stable chair and hold the backrest.",
+        "Slowly rise up onto the balls of your feet.",
+        "Pause briefly at the top.",
+        "Lower your heels slowly back down."
+      ],
+      "easier": [
+        "Rise only partway.",
+        "Hold the chair with both hands."
+      ],
+      "cautions": [
+        "Keep a steady hold on your support.",
+        "Stop if you feel unsteady or have pain."
+      ],
+      "category": "legs",
+      "instruction": "Holding the chair, rise onto your toes, then lower slowly."
+    }
+  ],
+  "routines": [
+    {
+      "id": "gentle-mobility",
+      "title": "Gentle Mobility",
+      "summary": "A short, easy recovery routine.",
+      "exerciseIDs": [
+        "shoulder-rolls",
+        "neck-rotations",
+        "seated-thoracic-extension",
+        "doorway-chest-stretch"
+      ]
+    },
+    {
+      "id": "desk-reset",
+      "title": "Desk Reset",
+      "summary": "A few desk stretches to break up sitting.",
+      "exerciseIDs": [
+        "trunk-rotation",
+        "desk-chest-opener",
+        "one-arm-hug-stretch",
+        "forearm-stretch"
+      ]
+    },
+    {
+      "id": "desk-stretches",
+      "title": "Desk Stretches",
+      "summary": "The full desk-stretch collection.",
+      "exerciseIDs": [
+        "seated-figure-four",
+        "seated-hamstring-stretch",
+        "trunk-rotation",
+        "desk-chest-opener",
+        "one-arm-hug-stretch",
+        "overhead-triceps-stretch",
+        "forearm-stretch"
+      ]
+    },
+    {
+      "id": "posture-refresh",
+      "title": "Posture Refresh",
+      "summary": "Sit, then stand, to reset how you hold yourself.",
+      "exerciseIDs": [
+        "chin-tuck",
+        "shoulder-rolls",
+        "scapular-retraction",
+        "wall-angels",
+        "standing-chest-opener",
+        "sit-to-stand"
+      ]
+    },
+    {
+      "id": "stand-up-break",
+      "title": "Stand-Up Break",
+      "summary": "Get out of your chair and open up hips, chest and shoulders.",
+      "exerciseIDs": [
+        "standing-chest-opener",
+        "standing-hip-flexor-stretch",
+        "calf-raises",
+        "wall-angels"
+      ]
+    },
+    {
+      "id": "strong-legs",
+      "title": "Steady Legs",
+      "summary": "Simple strength for standing, walking and climbing stairs.",
+      "exerciseIDs": [
+        "sit-to-stand",
+        "calf-raises",
+        "standing-hip-flexor-stretch"
+      ]
+    },
+    {
+      "id": "full-break",
+      "title": "Full Movement Break",
+      "summary": "A longer session that moves everything, including some floor work.",
+      "exerciseIDs": [
+        "chin-tuck",
+        "shoulder-rolls",
+        "scapular-retraction",
+        "thoracic-extension-chair",
+        "sit-to-stand",
+        "standing-chest-opener",
+        "wall-angels",
+        "standing-hip-flexor-stretch",
+        "calf-raises",
+        "cat-cow"
+      ]
+    }
+  ],
+  "programme": [
+    {
+      "id": "day-1",
+      "day": 1,
+      "title": "Neck and Shoulder-Blade Foundations",
+      "summary": "Day 1 of the ten-day programme.",
+      "exerciseIDs": [
+        "supine-chin-tuck",
+        "scapular-retraction",
+        "thoracic-extension-chair",
+        "doorway-chest-stretch"
+      ]
+    },
+    {
+      "id": "day-2",
+      "day": 2,
+      "title": "Upper-Back Strength",
+      "summary": "Day 2 of the ten-day programme.",
+      "exerciseIDs": [
+        "chin-tuck",
+        "resistance-band-row",
+        "prone-w-raise",
+        "wall-slide",
+        "doorway-chest-stretch"
+      ]
+    },
+    {
+      "id": "day-3",
+      "day": 3,
+      "title": "Mobility and Recovery",
+      "summary": "Day 3 of the ten-day programme.",
+      "exerciseIDs": [
+        "cat-cow",
+        "seated-thoracic-extension",
+        "neck-rotations",
+        "shoulder-rolls",
+        "doorway-chest-stretch"
+      ]
+    },
+    {
+      "id": "day-4",
+      "day": 4,
+      "title": "Neck Stability and Shoulder Strength",
+      "summary": "Day 4 of the ten-day programme.",
+      "exerciseIDs": [
+        "supine-chin-tuck",
+        "resistance-band-row",
+        "prone-y-raise",
+        "wall-push-up-plus",
+        "doorway-chest-stretch"
+      ]
+    },
+    {
+      "id": "day-5",
+      "day": 5,
+      "title": "Postural Endurance",
+      "summary": "Day 5 of the ten-day programme.",
+      "exerciseIDs": [
+        "prone-cobra",
+        "wall-slide",
+        "scapular-retraction",
+        "bird-dog",
+        "thoracic-extension-chair"
+      ]
+    },
+    {
+      "id": "day-6",
+      "day": 6,
+      "title": "Progressive Strength Training",
+      "summary": "Day 6 of the ten-day programme.",
+      "exerciseIDs": [
+        "chin-tuck",
+        "resistance-band-row",
+        "prone-t-raise",
+        "wall-push-up-plus",
+        "bird-dog"
+      ]
+    },
+    {
+      "id": "day-7",
+      "day": 7,
+      "title": "Active Recovery",
+      "summary": "Day 7 of the ten-day programme.",
+      "exerciseIDs": [
+        "cat-cow",
+        "seated-thoracic-extension",
+        "neck-rotations",
+        "wall-slide",
+        "doorway-chest-stretch"
+      ]
+    },
+    {
+      "id": "day-8",
+      "day": 8,
+      "title": "Integrated Upper-Back Strengthening",
+      "summary": "Day 8 of the ten-day programme.",
+      "exerciseIDs": [
+        "supine-chin-tuck",
+        "resistance-band-row",
+        "prone-y-raise",
+        "prone-w-raise",
+        "prone-cobra",
+        "wall-slide"
+      ]
+    },
+    {
+      "id": "day-9",
+      "day": 9,
+      "title": "Mobility and Movement Control",
+      "summary": "Day 9 of the ten-day programme.",
+      "exerciseIDs": [
+        "chin-tuck",
+        "thoracic-extension-chair",
+        "wall-slide",
+        "bird-dog",
+        "doorway-chest-stretch"
+      ]
+    },
+    {
+      "id": "day-10",
+      "day": 10,
+      "title": "Full Posture-Strengthening Session",
+      "summary": "Day 10 of the ten-day programme.",
+      "exerciseIDs": [
+        "supine-chin-tuck",
+        "resistance-band-row",
+        "prone-y-raise",
+        "prone-t-raise",
+        "prone-w-raise",
+        "wall-push-up-plus",
+        "prone-cobra",
+        "doorway-chest-stretch"
+      ]
+    }
+  ]
+}
