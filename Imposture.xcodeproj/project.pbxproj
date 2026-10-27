@@ -1,0 +1,568 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 110;
+	objects = {
+
+/* Begin PBXContainerItemProxy section */
+		3753B8103078F00000E8CE4F /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 3753B7DD3078D99500E8CE4F /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 3753B7E43078D99500E8CE4F;
+			remoteInfo = Imposture;
+		};
+		3753B8123078F00000E8CE4F /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 3753B7DD3078D99500E8CE4F /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 3753B7E43078D99500E8CE4F;
+			remoteInfo = Imposture;
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		3753B7E53078D99500E8CE4F /* Imposture.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Imposture.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		3753B7FD3078E55900E8CE4F /* ImpostureTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = ImpostureTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		3753B8643078EC6300E8CE4F /* ImpostureUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = ImpostureUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+/* End PBXFileReference section */
+
+/* Begin PBXFileSystemSynchronizedRootGroup section */
+		3753B7E73078D99500E8CE4F /* Imposture */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = Imposture;
+			sourceTree = "<group>";
+		};
+		3753B7FE3078E55900E8CE4F /* ImpostureTests */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = ImpostureTests;
+			sourceTree = "<group>";
+		};
+		3753B8653078EC6300E8CE4F /* ImpostureUITests */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = ImpostureUITests;
+			sourceTree = "<group>";
+		};
+/* End PBXFileSystemSynchronizedRootGroup section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		3753B7E23078D99500E8CE4F /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			files = (
+			);
+		};
+		3753B7FA3078E55900E8CE4F /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			files = (
+			);
+		};
+		3753B8613078EC6300E8CE4F /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			files = (
+			);
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		3753B7DC3078D99500E8CE4F = {
+			isa = PBXGroup;
+			children = (
+				3753B7E73078D99500E8CE4F /* Imposture */,
+				3753B7FE3078E55900E8CE4F /* ImpostureTests */,
+				3753B8653078EC6300E8CE4F /* ImpostureUITests */,
+				3753B7E63078D99500E8CE4F /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		3753B7E63078D99500E8CE4F /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				3753B7E53078D99500E8CE4F /* Imposture.app */,
+				3753B7FD3078E55900E8CE4F /* ImpostureTests.xctest */,
+				3753B8643078EC6300E8CE4F /* ImpostureUITests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		3753B7E43078D99500E8CE4F /* Imposture */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 3753B7F03078D99D00E8CE4F /* Build configuration list for PBXNativeTarget "Imposture" */;
+			buildPhases = (
+				3753B7E13078D99500E8CE4F /* Sources */,
+				3753B7E23078D99500E8CE4F /* Frameworks */,
+				3753B7E33078D99500E8CE4F /* Resources */,
+			);
+			buildRules = (
+			);
+			fileSystemSynchronizedGroups = (
+				3753B7E73078D99500E8CE4F /* Imposture */,
+			);
+			name = Imposture;
+			productName = Imposture;
+			productReference = 3753B7E53078D99500E8CE4F /* Imposture.app */;
+			productType = "com.apple.product-type.application";
+		};
+		3753B7FC3078E55900E8CE4F /* ImpostureTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 3753B8033078E55900E8CE4F /* Build configuration list for PBXNativeTarget "ImpostureTests" */;
+			buildPhases = (
+				3753B7F93078E55900E8CE4F /* Sources */,
+				3753B7FA3078E55900E8CE4F /* Frameworks */,
+				3753B7FB3078E55900E8CE4F /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				3753B8113078F00000E8CE4F /* PBXTargetDependency */,
+			);
+			fileSystemSynchronizedGroups = (
+				3753B7FE3078E55900E8CE4F /* ImpostureTests */,
+			);
+			name = ImpostureTests;
+			productName = ImpostureTests;
+			productReference = 3753B7FD3078E55900E8CE4F /* ImpostureTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+		3753B8633078EC6300E8CE4F /* ImpostureUITests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 3753B8683078EC6300E8CE4F /* Build configuration list for PBXNativeTarget "ImpostureUITests" */;
+			buildPhases = (
+				3753B8603078EC6300E8CE4F /* Sources */,
+				3753B8613078EC6300E8CE4F /* Frameworks */,
+				3753B8623078EC6300E8CE4F /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				3753B8133078F00000E8CE4F /* PBXTargetDependency */,
+			);
+			fileSystemSynchronizedGroups = (
+				3753B8653078EC6300E8CE4F /* ImpostureUITests */,
+			);
+			name = ImpostureUITests;
+			productName = ImpostureUITests;
+			productReference = 3753B8643078EC6300E8CE4F /* ImpostureUITests.xctest */;
+			productType = "com.apple.product-type.bundle.ui-testing";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		3753B7DD3078D99500E8CE4F /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				LastSwiftUpdateCheck = 2700;
+				LastUpgradeCheck = 2710;
+				TargetAttributes = {
+					3753B7E43078D99500E8CE4F = {
+						CreatedOnToolsVersion = 27.0;
+					};
+					3753B7FC3078E55900E8CE4F = {
+						CreatedOnToolsVersion = 27.0;
+						TestTargetID = 3753B7E43078D99500E8CE4F;
+					};
+					3753B8633078EC6300E8CE4F = {
+						CreatedOnToolsVersion = 27.0;
+						TestTargetID = 3753B7E43078D99500E8CE4F;
+					};
+				};
+			};
+			buildConfigurationList = 3753B7E03078D99500E8CE4F /* Build configuration list for PBXProject "Imposture" */;
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 3753B7DC3078D99500E8CE4F;
+			minimizedProjectReferenceProxies = 1;
+			preferredProjectObjectVersion = 77;
+			productRefGroup = 3753B7E63078D99500E8CE4F /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				3753B7E43078D99500E8CE4F /* Imposture */,
+				3753B7FC3078E55900E8CE4F /* ImpostureTests */,
+				3753B8633078EC6300E8CE4F /* ImpostureUITests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		3753B7E33078D99500E8CE4F /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			files = (
+			);
+		};
+		3753B7FB3078E55900E8CE4F /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			files = (
+			);
+		};
+		3753B8623078EC6300E8CE4F /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			files = (
+			);
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		3753B7E13078D99500E8CE4F /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			files = (
+			);
+		};
+		3753B7F93078E55900E8CE4F /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			files = (
+			);
+		};
+		3753B8603078EC6300E8CE4F /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			files = (
+			);
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		3753B8113078F00000E8CE4F /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 3753B7E43078D99500E8CE4F /* Imposture */;
+			targetProxy = 3753B8103078F00000E8CE4F /* PBXContainerItemProxy */;
+		};
+		3753B8133078F00000E8CE4F /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 3753B7E43078D99500E8CE4F /* Imposture */;
+			targetProxy = 3753B8123078F00000E8CE4F /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin XCBuildConfiguration section */
+		3753B7EE3078D99D00E8CE4F /* Debug configuration for PBXProject "Imposture" */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 27.0;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "DEBUG $(inherited)";
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		3753B7EF3078D99D00E8CE4F /* Release configuration for PBXProject "Imposture" */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 27.0;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		3753B7F13078D99D00E8CE4F /* Debug configuration for PBXNativeTarget "Imposture" */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = MZGSTBM927;
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_CFBundleDisplayName = imposture;
+				INFOPLIST_KEY_NSCameraUsageDescription = "imposture uses the camera to estimate your posture, in the body scan and in seated checks. Frames are analysed on this iPhone and are never recorded, saved or uploaded.";
+				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = UIInterfaceOrientationPortrait;
+				INFOPLIST_KEY_UIUserInterfaceStyle = Dark;
+				IPHONEOS_DEPLOYMENT_TARGET = 26.0;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.saumyad.imposture;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				STRING_CATALOG_GENERATE_SYMBOLS = YES;
+				SWIFT_APPROACHABLE_CONCURRENCY = YES;
+				SWIFT_DEFAULT_ACTOR_ISOLATION = MainActor;
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_UPCOMING_FEATURE_MEMBER_IMPORT_VISIBILITY = YES;
+				SWIFT_VERSION = 6.0;
+				TARGETED_DEVICE_FAMILY = 1;
+			};
+			name = Debug;
+		};
+		3753B7F23078D99D00E8CE4F /* Release configuration for PBXNativeTarget "Imposture" */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = MZGSTBM927;
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_CFBundleDisplayName = imposture;
+				INFOPLIST_KEY_NSCameraUsageDescription = "imposture uses the camera to estimate your posture, in the body scan and in seated checks. Frames are analysed on this iPhone and are never recorded, saved or uploaded.";
+				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = UIInterfaceOrientationPortrait;
+				INFOPLIST_KEY_UIUserInterfaceStyle = Dark;
+				IPHONEOS_DEPLOYMENT_TARGET = 26.0;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.saumyad.imposture;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				STRING_CATALOG_GENERATE_SYMBOLS = YES;
+				SWIFT_APPROACHABLE_CONCURRENCY = YES;
+				SWIFT_DEFAULT_ACTOR_ISOLATION = MainActor;
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_UPCOMING_FEATURE_MEMBER_IMPORT_VISIBILITY = YES;
+				SWIFT_VERSION = 6.0;
+				TARGETED_DEVICE_FAMILY = 1;
+			};
+			name = Release;
+		};
+		3753B8013078E55900E8CE4F /* Debug configuration for PBXNativeTarget "ImpostureTests" */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 27.0;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.saumyad.ImpostureTests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = iphoneos;
+				STRING_CATALOG_GENERATE_SYMBOLS = NO;
+				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
+				SWIFT_APPROACHABLE_CONCURRENCY = YES;
+				SWIFT_DEFAULT_ACTOR_ISOLATION = MainActor;
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_UPCOMING_FEATURE_MEMBER_IMPORT_VISIBILITY = YES;
+				SWIFT_VERSION = 6.0;
+				TARGETED_DEVICE_FAMILY = 1;
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Imposture.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/Imposture";
+			};
+			name = Debug;
+		};
+		3753B8023078E55900E8CE4F /* Release configuration for PBXNativeTarget "ImpostureTests" */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 27.0;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.saumyad.ImpostureTests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = iphoneos;
+				STRING_CATALOG_GENERATE_SYMBOLS = NO;
+				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
+				SWIFT_APPROACHABLE_CONCURRENCY = YES;
+				SWIFT_DEFAULT_ACTOR_ISOLATION = MainActor;
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_UPCOMING_FEATURE_MEMBER_IMPORT_VISIBILITY = YES;
+				SWIFT_VERSION = 6.0;
+				TARGETED_DEVICE_FAMILY = 1;
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Imposture.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/Imposture";
+			};
+			name = Release;
+		};
+		3753B8693078EC6300E8CE4F /* Debug configuration for PBXNativeTarget "ImpostureUITests" */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 27.0;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.saumyad.ImpostureUITests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = iphoneos;
+				STRING_CATALOG_GENERATE_SYMBOLS = NO;
+				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
+				SWIFT_APPROACHABLE_CONCURRENCY = YES;
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_UPCOMING_FEATURE_MEMBER_IMPORT_VISIBILITY = YES;
+				SWIFT_VERSION = 6.0;
+				TARGETED_DEVICE_FAMILY = 1;
+				TEST_TARGET_NAME = Imposture;
+			};
+			name = Debug;
+		};
+		3753B86A3078EC6300E8CE4F /* Release configuration for PBXNativeTarget "ImpostureUITests" */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 27.0;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.saumyad.ImpostureUITests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = iphoneos;
+				STRING_CATALOG_GENERATE_SYMBOLS = NO;
+				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
+				SWIFT_APPROACHABLE_CONCURRENCY = YES;
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_UPCOMING_FEATURE_MEMBER_IMPORT_VISIBILITY = YES;
+				SWIFT_VERSION = 6.0;
+				TARGETED_DEVICE_FAMILY = 1;
+				TEST_TARGET_NAME = Imposture;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		3753B7E03078D99500E8CE4F /* Build configuration list for PBXProject "Imposture" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				3753B7EE3078D99D00E8CE4F /* Debug configuration for PBXProject "Imposture" */,
+				3753B7EF3078D99D00E8CE4F /* Release configuration for PBXProject "Imposture" */,
+			);
+			defaultConfigurationName = Release;
+		};
+		3753B7F03078D99D00E8CE4F /* Build configuration list for PBXNativeTarget "Imposture" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				3753B7F13078D99D00E8CE4F /* Debug configuration for PBXNativeTarget "Imposture" */,
+				3753B7F23078D99D00E8CE4F /* Release configuration for PBXNativeTarget "Imposture" */,
+			);
+			defaultConfigurationName = Release;
+		};
+		3753B8033078E55900E8CE4F /* Build configuration list for PBXNativeTarget "ImpostureTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				3753B8013078E55900E8CE4F /* Debug configuration for PBXNativeTarget "ImpostureTests" */,
+				3753B8023078E55900E8CE4F /* Release configuration for PBXNativeTarget "ImpostureTests" */,
+			);
+			defaultConfigurationName = Release;
+		};
+		3753B8683078EC6300E8CE4F /* Build configuration list for PBXNativeTarget "ImpostureUITests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				3753B8693078EC6300E8CE4F /* Debug configuration for PBXNativeTarget "ImpostureUITests" */,
+				3753B86A3078EC6300E8CE4F /* Release configuration for PBXNativeTarget "ImpostureUITests" */,
+			);
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 3753B7DD3078D99500E8CE4F /* Project object */;
+	validationLevel = 1;
+}

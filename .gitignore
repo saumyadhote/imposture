@@ -1,0 +1,43 @@
+# Xcode
+DerivedData/
+*.xcuserstate
+xcuserdata/
+*.pbxuser
+*.mode1v3
+*.mode2v3
+*.perspectivev3
+
+# SPM
+.build/
+.swiftpm/
+Package.resolved
+
+# Build artifacts
+*.ipa
+*.dSYM.zip
+*.dSYM
+
+# macOS
+.DS_Store
+
+# CocoaPods (prevent accidents -- SPM only)
+Pods/
+
+# Fastlane
+fastlane/report.xml
+fastlane/Preview.html
+fastlane/screenshots/
+fastlane/test_output/
+
+# Code signing
+*.mobileprovision
+*.provisionprofile
+
+# Playgrounds
+timeline.xctimeline
+playground.xcworkspace
+
+# Local build output and tooling
+build/
+.claude/settings.local.json
+.claude/skills/
