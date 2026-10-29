@@ -10,8 +10,8 @@ struct PrimaryButtonStyle: ButtonStyle {
         configuration.label
             .font(.headline)
             .foregroundStyle(isEnabled ? Color.impostureOnAccent : Color.impostureDashboardTextSecondary)
-            .frame(maxWidth: .infinity, minHeight: 52)
             .padding(.horizontal, Spacing.md)
+            .frame(maxWidth: .infinity, minHeight: 52)
             .background {
                 if isEnabled {
                     Capsule().fill(BrandGradient.primary)
@@ -51,8 +51,8 @@ struct SecondaryButtonStyle: ButtonStyle {
         configuration.label
             .font(.headline)
             .foregroundStyle(isEnabled ? Color.impostureDashboardText : Color.impostureDashboardTextSecondary)
-            .frame(maxWidth: .infinity, minHeight: 52)
             .padding(.horizontal, Spacing.md)
+            .frame(maxWidth: .infinity, minHeight: 52)
             .background(Color.impostureDashboardElevated, in: .capsule)
             .scaleEffect(configuration.isPressed && !reduceMotion ? 0.97 : 1)
             .opacity(configuration.isPressed && reduceMotion ? 0.8 : 1)

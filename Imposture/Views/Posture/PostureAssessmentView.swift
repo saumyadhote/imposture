@@ -13,13 +13,20 @@ struct PostureAssessmentView: View {
         NavigationStack(path: $path) {
             ScrollView {
                 VStack(alignment: .leading, spacing: Spacing.xl) {
+                    Text("Posture")
+                        .font(.largeTitle.weight(.semibold))
+                        .foregroundStyle(Color.impostureDashboardText)
+                        .accessibilityAddTraits(.isHeader)
+                        .padding(.top, Spacing.sm)
+
                     intro
                     history
                 }
-                .padding(.horizontal, Spacing.screenMargin)
+                .padding(.horizontal, Spacing.lg)
                 .padding(.bottom, Spacing.xl)
             }
             .background(Color.impostureDashboardBackground.ignoresSafeArea())
+            .toolbarVisibility(.hidden, for: .navigationBar)
             .navigationTitle("Posture")
             .navigationDestination(for: PostureRoute.self) { route in
                 switch route {
@@ -44,8 +51,7 @@ struct PostureAssessmentView: View {
     private var intro: some View {
         VStack(alignment: .leading, spacing: Spacing.lg) {
             AuroraOrb(size: 160)
-                .frame(maxWidth: .infinity)
-                .padding(.vertical, Spacing.lg)
+                .frame(maxWidth: .infinity, alignment: .center)
             VStack(alignment: .leading, spacing: Spacing.xs) {
                 Text("Seated posture check")
                     .font(.title2.weight(.semibold))
@@ -53,18 +59,26 @@ struct PostureAssessmentView: View {
                 Text("Prop your iPhone to your side and carry on working. imposture estimates how your head and upper body sit, for up to ten minutes.")
                     .font(.subheadline)
                     .foregroundStyle(Color.impostureDashboardTextSecondary)
+                    .multilineTextAlignment(.leading)
                     .fixedSize(horizontal: false, vertical: true)
             }
+            .frame(maxWidth: .infinity, alignment: .leading)
             Button {
                 begin()
             } label: {
                 Label("Begin assessment", systemImage: "camera.viewfinder")
+                    .frame(maxWidth: .infinity, alignment: .center)
             }
             .buttonStyle(.imposturePrimary)
             .accessibilityIdentifier("posture.begin")
-            Label("Analysed on this iPhone. No photos or video are saved.", systemImage: "lock")
-                .font(.footnote)
-                .foregroundStyle(Color.impostureDashboardTextSecondary)
+            HStack(alignment: .firstTextBaseline, spacing: Spacing.xs) {
+                Image(systemName: "lock")
+                    .font(.footnote)
+                    .accessibilityHidden(true)
+                Text("Analysed on this iPhone. No photos or video are saved.")
+                    .font(.footnote)
+            }
+            .foregroundStyle(Color.impostureDashboardTextSecondary)
         }
         .frame(maxWidth: .infinity, alignment: .leading)
     }
@@ -108,6 +122,7 @@ struct PostureAssessmentView: View {
                 }
             }
         }
+        .frame(maxWidth: .infinity, alignment: .leading)
     }
 
     private func openRouteAfterFlow() {
@@ -131,8 +146,8 @@ struct AssessmentRow: View {
     let assessment: PostureAssessment
 
     var body: some View {
-        HStack(spacing: Spacing.md) {
-            VStack(alignment: .leading, spacing: 2) {
+        HStack(alignment: .center, spacing: Spacing.md) {
+            VStack(alignment: .leading, spacing: Spacing.xxs) {
                 Text(assessment.endedAt.formatted(date: .abbreviated, time: .shortened))
                     .font(.headline)
                     .foregroundStyle(Color.impostureTextPrimary)
@@ -144,6 +159,7 @@ struct AssessmentRow: View {
             DisclosureChevron()
         }
         .padding(Spacing.md)
+        .frame(maxWidth: .infinity, alignment: .leading)
         .background(Color.impostureSurface.opacity(0.8), in: .rect(cornerRadius: Radius.control, style: .continuous))
         .contentShape(.rect)
         .accessibilityElement(children: .combine)
